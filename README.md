@@ -5,6 +5,6 @@
 + Người dùng có thể thay đổi 2 chỉ số này trong phần main của qua biến prefixLenghth và biến maxSuggestion
 + Ngoài ra trong hàm compareTrieVsQuicksort, ngay dòng đầu tiên người dùng có thể thay đổi thông số iterations để thay đổi số lần thử nghiệm lấy trung bình.Chương trình không có bất kì thư viện ngoài nào cần cày đặt.
 ## TÀI LIỆU THAM KHẢO:
-+Cấu trúc dữ liệu và Giải thuật – Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein.
-+Trie Data Structure – GeeksforGeeks: https://www.geeksforgeeks.org/trie-insert-and-search/
++Cấu trúc dữ liệu và Giải thuật – Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein. <br>
++Trie Data Structure – GeeksforGeeks: https://www.geeksforgeeks.org/trie-insert-and-search/ <br>
 +Data Structures and Algorithms in C++ – Adam Drozdek.
